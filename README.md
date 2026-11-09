@@ -27,3 +27,8 @@ Tracking the Rupee is a data-analysis and machine-learning project that explores
 - Seaborn
 - Scikit-learn
 - Jupyter Notebook
+
+
+## Key Findings
+
+The project includes exploratory analysis and visualisations of historical exchange-rate trends. Detailed findings will be added after final model evaluation.
